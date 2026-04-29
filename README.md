@@ -1,4 +1,5 @@
-# Siro Collins — DevOps & Cloud Engineer
+# Siro Collins 
+DevOps & Cloud Engineer
 
 > I build cloud infrastructure that's secure, observable, and recovers from failure automatically.
 
