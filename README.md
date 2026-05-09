@@ -133,9 +133,12 @@ Live site auto-deployed via GitHub Actions on every push. The pipeline itself is
 
 ## GitHub Stats
 
-![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siro-devops&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A56A0&icon_color=FF9900&text_color=8B949E)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siro-devops&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A56A0&text_color=8B949E)
-
+![](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
+![](https://img.shields.io/badge/Vault-Secrets-000000?style=flat&logo=vault&logoColor=white)
+![](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white)
 ---
 
 ## Available for
